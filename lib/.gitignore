@@ -1,6 +1,8 @@
+# dependecies installed by npm
+node_modules
+
 ### Node.js ###
 
-node_modules
 /.pnp
 .pnp.js
 package-lock.json
