@@ -42,5 +42,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/christinecardoso/11ty-sapphire.git"
+  },
+  "scripts": {
+    "ci": "dks ci",
+    "format": "dks format",
+    "lint": "dks lint"
   }
 }
