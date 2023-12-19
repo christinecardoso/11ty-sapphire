@@ -1,0 +1,48 @@
+# build artefacts
+_site
+dist
+
+# secrets
+.env
+
+# dependecies installed by npm
+node_modules
+
+# logs
+*.log
+report.html
+
+# cache
+.eslintcache
+.stylelintcache
+
+# Local Netlify folder
+.netlify
+
+# Obsidian
+.obsidian
+
+### Misc ###
+
+.DS_Store
+
+### Node.js ###
+
+node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
+### IDE ###
+
+/.idea/httpRequests
+/.idea/markdown.xml
+/.idea/php.xml
+/.idea/shelf
+/.idea/tasks.xml
+/.idea/workspace.xml
+
+### Misc ###
+
+*.log
+.DS_Store
